@@ -1,5 +1,6 @@
 These commits are everyting to the business! Make sure each commit is CLEANNNNN
 
 
-1717 is a goose chase. You need PORT 5984. 
-
+1717 is a goose chase. You need PORTs
+8002
+8004
